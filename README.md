@@ -39,7 +39,7 @@ This module is focused on the selection and processing of the corpus of material
 ## Copyright
 All material is copyright of Jeri E. Wieringa (jeri.elizabeth@gmail.com).
 
-The code is release under the MIT license and the text under a Creative Commons Attribution-NonCommercial 4.0 International license. See [license.md](license.md) for details.
+The code is released under the MIT license, and the text under a Creative Commons Attribution-NonCommercial 4.0 International license. See [license.md](license.md) for details.
 
 
 
