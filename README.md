@@ -19,6 +19,12 @@ First, [install Conda](http://conda.pydata.org/docs/install/quick.html). Once yo
 conda env create -f environment.yml
 ```
 
+If you need to update your local environment from the `environment.yml` file, run:
+
+```bash
+conda env update --name=GoH --file=environment.yml
+```
+
 To load the environment, run:
 
 ```bash
