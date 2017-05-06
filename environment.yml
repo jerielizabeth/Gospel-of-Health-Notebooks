@@ -15,6 +15,7 @@ dependencies:
 - appnope=0.1.0=py35_0
 - beautifulsoup4=4.5.3=py35_0
 - bleach=1.5.0=py35_0
+- bokeh=0.12.5=py35_0
 - clyent=1.2.2=py35_0
 - conda-forge::jupyter_contrib_core=0.3.1=py35_0
 - conda-forge::jupyter_contrib_nbextensions=0.2.7=py35_0
@@ -43,10 +44,14 @@ dependencies:
 - lxml=3.7.3=py35_0
 - markupsafe=0.23=py35_2
 - mistune=0.7.4=py35_0
+- mkl=2017.0.1=0
 - nbconvert=5.1.1=py35_0
 - nbformat=4.3.0=py35_0
+- nltk=3.2.2=py35_0
 - notebook=5.0.0=py35_0
+- numpy=1.12.1=py35_0
 - openssl=1.0.2k=1
+- pandas=0.19.2=np112py35_1
 - pandocfilters=1.4.1=py35_0
 - path.py=10.3.1=py35_0
 - pexpect=4.2.1=py35_0
@@ -73,7 +78,7 @@ dependencies:
 - terminado=0.6=py35_0
 - testpath=0.3=py35_0
 - tk=8.5.18=0
-- tornado=4.5.1=py35_0
+- tornado=4.4.2=py35_0
 - traitlets=4.3.2=py35_0
 - wcwidth=0.1.7=py35_0
 - wheel=0.29.0=py35_0
