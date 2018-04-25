@@ -1,5 +1,6 @@
 name: GoH
-channels: !!python/tuple
+channels: 
+- conda-forge
 - defaults
 dependencies:
 - anaconda-client=1.6.2=py35_0
