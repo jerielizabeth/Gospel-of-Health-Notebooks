@@ -1,3 +1,8 @@
+<!-- 
+.. date: 2018-10-01
+.. slug: index
+ -->
+
 # Notebooks for *A Gospel of Health and Salvation*
 
 This repository contains [Jupyter notebooks](http://jupyter.org/) which document the technical work for my dissertation, *A Gospel of Health and Salvation*. It will be divided into five modules, each of which corresponds to a section of my dissertation site (to be released in 2018). 
@@ -10,6 +15,8 @@ I share them in hopes that they prove useful to others taking on similar project
 
 
 ## Setup and Running a Notebooks Server
+
+These files are available through Github and in a display version as part of my dissertation. 
 
 To run the notebooks locally, you will need **Python3** as well as the libraries recorded in the `environments.yml` file, included at the root of the project. I recommend managing Python and the libraries using [Conda](). 
 

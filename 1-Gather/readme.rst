@@ -1,8 +1,8 @@
+
 <!-- .. date: 2018-02-13
-.. title: Gather
+.. title: 1. Gather
 .. slug: index 
 -->
 
 Making sure i'm in the right file.
 
-[test](link://slug/extract-text)
