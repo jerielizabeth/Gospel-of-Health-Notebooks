@@ -1,8 +1,13 @@
-
-<!-- .. date: 2018-02-13
+<!-- 
+.. date: 2018-02-13
 .. title: 1. Gather
 .. slug: index 
 -->
 
-Making sure i'm in the right file.
+[Introductory text explaining the section]
 
+Notebook Files
+==============
+
++ :doc:`Downloading Corpus Files <downloading>`
++ :doc:`Extracting Text from PDFs <extracting>`

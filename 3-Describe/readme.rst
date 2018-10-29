@@ -4,3 +4,10 @@
 .. slug: index 
 -->
 
+[Introductory text explaining the section]
+
+Notebook Files
+==============
+
++ :doc:`Periodical Titles <corpus-details>`
++ :doc:`Charts of Corpus Statistics <charts-of-corpus-statistics>`
