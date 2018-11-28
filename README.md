@@ -1,7 +1,7 @@
 <!-- 
 .. date: 2018-10-01
 .. slug: index
-.. title: Notebooks for *A Gospel of Health and Salvation*
+.. title: Notebooks for A Gospel of Health and Salvation
  -->
 
 This collection of Jupyter notebooks documents the technical work for my dissertation, *A Gospel of Health and Salvation: Modeling the Religious Culture of Seventh-day Adventism, 1843-1920*. My goal in releasing the code notebooks is three-fold. First, the notebooks document the final versions of the technical work that supports the dissertation, and can be used to examine and reproduce elements of that technical work. Second, the notebooks are part of the argument of the dissertation, demonstrating the ways the intellectual work of computational analysis is found not only in the summary texts, but is also embedded within the logic of the code. And third, I have released the code as a collection of Jupyter notebooks to support the reuse and adaptation of this intellectual work in other contexts. 
@@ -46,7 +46,7 @@ jupyter notebook
 
 ## Acknowledgements
 
-I have accumulated many debts while learning Python and attempting to apply code it to my dissertation research. A special thanks to Fred Gibbs, both for introducing "Clio3" to the GMU curriculum (the beginning of my demise) and for being a sounding board, helping me work through some of the stickier parts of the technical work. Thanks also to the [Experimental Humanities Group at ILIFF](http://library.iliff.edu/learning/#/humanities/) for letting me join your calls, helping me work through problems, and inspiring me to write beautiful, well-documented code. 
+I have accumulated many debts while learning Python and attempting to apply code it to my dissertation research. A particular thanks to Fred Gibbs, both for introducing "Clio3" to the GMU curriculum (the beginning of my demise) and for being a sounding board, helping me work through some of the stickier parts of the technical work. Thanks also to the [Experimental Humanities Group at ILIFF](http://library.iliff.edu/learning/#/humanities/) for letting me join your calls, helping me work through problems, and inspiring me to write beautiful, well-documented code. 
 
 And, of course, thanks to the generous citizens of [StackOverflow](https://stackoverflow.com/), without whom I don't know how I would ever remember how to write to a file.
 
