@@ -1,6 +1,6 @@
 <!-- 
 .. date: 2018-10-01
-.. slug: index
+.. slug: notebooks-overview
 .. title: Notebooks for A Gospel of Health and Salvation
  -->
 
