@@ -1,7 +1,7 @@
 <!-- 
 .. date: 2018-10-01
 .. title: 7. Analyze
-.. slug: index 
+.. slug: readme-7 
 -->
 
 [Introductory text explaining the section]

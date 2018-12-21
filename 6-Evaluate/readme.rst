@@ -1,7 +1,7 @@
 <!-- 
 .. date: 2018-10-01
 .. title: 6. Evaluate
-.. slug: index 
+.. slug: readme-6 
 -->
 
 [Introductory text explaining the section]
@@ -19,3 +19,10 @@ Stability of Topic Words
 ------------------------
 
 + :doc:`Measure Variation in Topic Keys <measure-variation-in-topic-keys>`
+
+Interpretation
+--------------
+
+I managed the topic labels for the model browser in a Google doc. The following notebook is used to take that spreadsheet data and format it into json for the browser `info.json` file. Currently, the results must be manually copied and pasted from the notebook to the browser file.
+
++ :doc:`Export Topic Labels <export-topic-labels>`

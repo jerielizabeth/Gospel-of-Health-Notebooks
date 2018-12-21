@@ -1,7 +1,7 @@
 <!-- 
 .. date: 2018-02-13
 .. title: 1. Gather
-.. slug: index 
+.. slug: readme-1
 -->
 
 My first step for the computational text analysis was to gather the digital files from the Seventh-day Adventist Office of Archives, Statistics, and Research. These digitized historic documents are published and maintained by the church and made available to the general public. While the online interface is not optimized for batch downloading, the regular URL structure and their accessiblity on the open web make this collection of documents a good use case for web scraping. 

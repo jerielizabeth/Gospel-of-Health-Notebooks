@@ -1,10 +1,17 @@
 <!-- 
 .. date: 2018-10-01
 .. title: 2. Clean
-.. slug: index 
+.. slug: readme-2 
 -->
 
-[Introductory text explaining the section]
+While OCR provides an efficient way to generate text from the images of documents, the process is not fool-proof. Depending on the particulars of the original page, such as font size and layout, as well as the quality of the digitization, the text data generated through computational recognition can be prone to a number of errors. 
+
+In order to evaluate the data from the SDA periodicals, I first created a list of words against which to evaluate the tokens in the text. This consisted of words from the SCOWL collection, place and people names from the SDA yearbooks, and the language of the King James Bible. To the base generic list, I added a collection of specialized words that occurred frequently within the denominational literature.
+
+Using these words, I worked title by title through the periodical scans, addressing the frequently occurring errorrs. These included special characters, errors in words due to line endings, and tokens where the white space was not correctly identified, either through extra white space between letters of a lack of whitespace between words. The age and type face of the periodicals created unique error patterns for each title, which were easier to address when working with each title independently.
+
+These notebooks enable the user to examine the corrections I made for each periodical title and to recreate them.
+
 
 Notebook Files
 ==============
