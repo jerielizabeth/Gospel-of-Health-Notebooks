@@ -34,6 +34,7 @@ Create SDA Vocabulary List
 Evaluate and Correct Corpus Titles
 ----------------------------------
 
++ :doc:`Example of OCR Correction <example-of-ocr-cleaning>`
 + :doc:`Advocate of Christian Education <adv-ocr-evaluation-and-correction>`
 + :doc:`American Sentinel <amsn-ocr-evaluation-and-correction>`
 + :doc:`Adventist Review Anniversary Issues <arai-ocr-evaluation-and-correction>`
