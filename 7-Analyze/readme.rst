@@ -11,13 +11,17 @@ Additionally, I used the topic model as a type of index to retrieve documents on
 Notebook Files
 ==============
 
-+ :doc:`Filter Topics by Year <2018-10-17-yearly-top-topics>`
-+ :doc:`Filter Docs by Topic and Year <2018-10-18-top-docs-by-topic-year>`
-+ :doc:`Aggregated End-times Topics <aggregated-end-times-topics>`
++ :doc:`Explore Top Topics by Year <2018-10-17-yearly-top-topics>`
++ :doc:`Explore Top Yearly Topic Categories <2019-01-17-yearly-top-labels>`
+
 
 Investigate Cycles
 ------------------
 
++ :doc:`Aggregated End-times Topics <aggregated-end-times-topics>`
+
 
 AntConc
 -------
+
+To compute keyness scores in AntConc, I used log-likelihood and p < 0.05 (+ Bonferroni) to compute "Keyness" and %DIFF to compute "Effect", ranking the results by "Keyness" value. As part of the study, I compared the documents from year being examined to the documents from the five years prior and subsequent.
