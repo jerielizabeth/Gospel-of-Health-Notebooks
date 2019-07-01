@@ -14,7 +14,7 @@ A note on code in the dissertation product: There are a variety of opinions on i
 
 ## Setup and Running a Notebooks Server
 
-To run the notebooks locally, you will need Python3 as well as the libraries recorded in the `environments.yml` file, included at the root of the project. A number of the notebooks also require my supporting library, [name], which is available via Github. I recommend managing Python and the libraries using [Conda](http://conda.pydata.org). 
+To run the notebooks locally, you will need Python3 as well as the libraries recorded in the `environments.yml` file, included at the root of the project. A number of the notebooks also require my supporting library, `text2topics`, which is available via Github at [https://github.com/jerielizabeth/text2topics](https://github.com/jerielizabeth/text2topics). I recommend managing Python and the libraries using [Conda](http://conda.pydata.org). 
 
 To install, first [install Conda](http://conda.pydata.org/docs/install/quick.html). Once you have Conda installed, you can duplicate the environment for these notebooks by running (in the command line):
 
@@ -36,12 +36,12 @@ Once you have created the environment on your local machine, you must activate i
 source activate GoH
 ```
 
-With the environment active, install the [name] library, following the instructions in its Github repository.
+With the environment active, install the `text2topics` library, following the instructions in its Github repository.
 
 You can then launch the notebooks server by running (at the root of the notebooks directory):
 
 ```bash
-jupyter notebook
+jupyter lab
 ```
 
 ## Acknowledgements
