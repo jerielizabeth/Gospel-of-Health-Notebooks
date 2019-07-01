@@ -1,4 +1,4 @@
-name: dissertation2
+name: GoH
 channels:
   - anaconda
   - anaconda-nb-extensions
@@ -234,5 +234,3 @@ dependencies:
     - webassets==0.12.1
     - ws4py==0.4.2
     - yapsy==1.11.223
-prefix: /Users/jeriwieringa/miniconda3/envs/dissertation2
-
