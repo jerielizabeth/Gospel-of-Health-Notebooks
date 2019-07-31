@@ -34,7 +34,7 @@ Create SDA Vocabulary List
 Evaluate and Correct Corpus Titles
 ----------------------------------
 
-+ :doc:`Example of OCR Correction <example_of_ocr_cleaning>`
++ :doc:`Example of OCR Correction <example_OCR_cleaning>`
 + :doc:`Advocate of Christian Education <adv-ocr-evaluation-and-correction>`
 + :doc:`American Sentinel <amsn-ocr-evaluation-and-correction>`
 + :doc:`Adventist Review Anniversary Issues <arai-ocr-evaluation-and-correction>`
@@ -66,3 +66,8 @@ Evaluate and Correct Corpus Titles
 + :doc:`Missionary Magazine, The <tmm-ocr-evaluation-and-correction>`
 + :doc:`West Michigan Herald <whm-ocr-evaluation-and-correction>`
 + :doc:`Youth's Instructor, The <yi-ocr-evaluation-and-correction>`
+
+Generate Final Statistics
+-------------------------
+
++ :doc:`Generate Final Error Report <calculate-error-rates-round-4>`

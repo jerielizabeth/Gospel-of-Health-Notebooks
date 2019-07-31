@@ -25,7 +25,6 @@ Create Stopword List
 --------------------
 
 + :doc:`Identify high and low frequency words as stop words <2018-02-createstopwordlist>`
-+ :doc:`Create stopword list for use with MALLET <create_filterlist_for_mallet_preprocessing>`
 
 Filter Docs and Create Corpus Text Files
 ----------------------------------------

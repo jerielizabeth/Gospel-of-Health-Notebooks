@@ -34,6 +34,7 @@ I managed the topic labels I developed for the model browser in a Google doc. Th
 To create these labels, I drew on the words of the topics as well as read the top documents in which the topic appeared. This provided contextual information for distinguishing between similar topics.
 
 + :doc:`Export Topic Labels <export-topic-labels>`
++ :doc:`Export Top Twenty Docs per Topic <export-top-docs-per-topic>`
 
 .. [1] Chang, Jonathan, Jordan Boyd-Graber, Sean Gerrish, Chong Wang, and David M. Blei. “Reading Tea Leaves: How Humans Interpret Topic Models.” *NIPS Proceedings*, 22 (2009). https://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models.
  
