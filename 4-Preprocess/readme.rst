@@ -33,5 +33,5 @@ Filter Docs and Create Corpus Text Files
 + :doc:`Create Zips of Corpus Configurations <2018-02-createzipsofcorpussubsets>`
 + :doc:`Preprocess Corpora for Mallet <preprocess_corpus_for_mallet>`
 
-.. [1] @Mimno2015. It is important to note that, while useful, this work was limited by the quality of the data from OCR and the problem of misidentified columns prevalent in the data source. With cleaner textual data, this work would be even more reliable.
-.. [2] @Taghva2004.
+.. [1] Mimno, David. “Using Phrases in Mallet Topic Models.” (2015): http://www.mimno.org/articles/phrases/. It is important to note that, while useful, this work was limited by the quality of the data from OCR and the problem of misidentified columns prevalent in the data source. With cleaner textual data, this work would be even more reliable.
+.. [2] Taghva, Kazem, Thomas Nartker, and Julie Borsack. “Information Access in the Presence of Ocr Errors.” *Proceedings of the 1st ACM workshop on Hardcopy document processing* (2004): 1--8.
