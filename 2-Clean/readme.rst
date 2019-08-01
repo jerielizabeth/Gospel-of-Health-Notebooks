@@ -66,8 +66,3 @@ Evaluate and Correct Corpus Titles
 + :doc:`Missionary Magazine, The <tmm-ocr-evaluation-and-correction>`
 + :doc:`West Michigan Herald <whm-ocr-evaluation-and-correction>`
 + :doc:`Youth's Instructor, The <yi-ocr-evaluation-and-correction>`
-
-Generate Final Statistics
--------------------------
-
-+ :doc:`Generate Final Error Report <calculate-error-rates-round-4>`
